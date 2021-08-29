@@ -52,6 +52,10 @@
             "value": "**Hi, I'm [Media Search Bot](https://github.com/subinps/Media-Search-bot) or you can call me as Auto-Filter Bot**\n\nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.",
             "required": false
         },
+         "START_IMG": {
+         "description": "Image shows when hit /start",
+         "value": "https://telegra.ph/file/fc734b227985a1524e715.jpg"    
+      },
         "USE_CAPTION_FILTER": {
             "description": "Whether bot should use captions to improve search results. (True False)",
             "value": "False",
